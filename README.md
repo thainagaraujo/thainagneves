@@ -5,7 +5,7 @@
 > #### "Dreaming big and dreaming small require the same effort." 🎈
 
 -   🌎  I'm from São Paulo, living in Espírito Santo.
--   📚  I am a Computer Engineer specializing in Computer Forensics.
+-   📚  I am a Computer Engineer.
 -   ⚡  I'm a freelance web developer and a cake maker in my spare time.
 -   👧😇😇 I have a beautiful daughter named Elisa and two angels in heaven waiting for me.
 -   📫  How to talk to me:  _[thainaga08@gmail.com](mailto:thainaga08@gmail.com)_
