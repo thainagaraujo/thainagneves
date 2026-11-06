@@ -8,4 +8,4 @@
 -   👩‍👧‍👦 I have two children.
 -   📫  How to talk to me:  _[thainaga08@gmail.com](mailto:thainaga08@gmail.com)_
       
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaina-gomes-araujo/)](https://www.linkedin.com/in/thaina-gomes-araujo/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thainagneves/)](https://www.instagram.com/thainagneves/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaina-gomes-araujo/)](https://www.linkedin.com/in/thaina-gomes-araujo/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thaina_araujo47/)](https://www.instagram.com/thaina_araujo47/) 
